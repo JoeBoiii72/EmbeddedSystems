@@ -45,6 +45,7 @@ void ListenMenu::handleTouch(int x, int y)
 	{
 		screen.clearScreen();
 		screen.setMenu(NAME_MENU);
+		signalFoundFlag = false;
 	}
 }
 
