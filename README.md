@@ -9,4 +9,4 @@ For the STM32F746FG-DISCO board
 - Receive Infrared signals from any device.
 - Save Infrared signals(until restart)
 - Send Infrared signals inputted manually
-- Send INfrared signals that were received.
+- Send Infrared signals that were received.
