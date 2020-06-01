@@ -1,5 +1,8 @@
 # EmbeddedSystems
-Embedded Systems coursework
+Embedded Systems project
+
+
+For the STM32F746FG-DISCO board
 
 
 # Features
